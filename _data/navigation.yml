@@ -69,6 +69,8 @@ docs-ko:
         url:    2020/08/16/gradient_descent.html
       - title:  Momentum 이용 최적화 기법 - ADAM
         url:    2020/09/26/gradient_descent_with_momentum.html
+
+docs1-ko:        
   - title:      사회
     children:
       - title:  가우스 적분
