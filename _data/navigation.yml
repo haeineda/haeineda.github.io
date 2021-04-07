@@ -49,6 +49,10 @@ header:
       # @end locale config
     url: /about.html
 
+  - title:      Docs
+      url:        /docs/en/quick-start
+      key:        docs
+    
 docs-ko:
   - title:      국어
     children:
