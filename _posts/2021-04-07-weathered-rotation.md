@@ -5,7 +5,7 @@ sidebar:
 aside:
   toc: true
 key: 20190711
-tags: 암석 풍화
+tags: 암석 풍화 순환
 ---
 
 ## 암석의 풍화와 순환
