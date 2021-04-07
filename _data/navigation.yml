@@ -23,12 +23,6 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /archive.html
-    
-  - titles:
-      # @start locale config
-      en      : &EN       Kind
-      ko      : &KO       구분1
-    url: /2021/04/07/weathered-rotation.html
 
   - titles:
       # @start locale config
