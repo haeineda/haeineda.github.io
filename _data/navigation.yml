@@ -48,3 +48,36 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+docs-ko:
+  - title:      국어
+    children:
+      - title:  벡터의 기본 연산(상수배, 덧셈)
+        url:    2020/09/07/basic_vector_operation.html
+      - title:  행렬 곱에 대한 또 다른 시각
+        url:    2020/09/08/matrix_multiplication.html
+  - title:      수학
+    children:
+      - title:  $\frac{dx}{dy}$는 $\frac{dy}{dx}$의 역수인가?
+        url:    2020/09/02/is_dxdy_inverse_of_dydx.html
+      - title:  $\int x^{dx}-1=$?
+        url:    2020/09/01/int_x_to_the_dx_minus_1.html
+  - title:      영어
+    children:
+      - title:  경사하강법(Gradient Descent)
+        url:    2020/08/16/gradient_descent.html
+      - title:  Momentum 이용 최적화 기법 - ADAM
+        url:    2020/09/26/gradient_descent_with_momentum.html
+  - title:      사회
+    children:
+      - title:  가우스 적분
+        url:    2020/01/17/Gaussian_Integral.html
+      - title:  정규분포 공식 유도
+        url:    2020/09/14/normal_distribution_derivation.html
+  - title:      역사
+    children:
+      - title:  허수의 존재 의미에 대하여
+        url:    2019/06/15/imaginary_number.html  
+      - title:  허근의 위치
+        url:    2019/06/16/imaginary_root.html
+       
