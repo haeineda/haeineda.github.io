@@ -54,9 +54,9 @@ docs-ko:
   - title:      수와 연산
     children:
       - title:  소인수분해
-        url:    2020/09/07/basic_vector_operation.html
+        url:    2021/04/08/factorization-prime-factors.html
       - title:  정수와 유리수
-        url:    2020/09/08/matrix_multiplication.html
+        url:    2021/04/08/greatest-common-denominator.html
 
 # 과학
 docs1-ko:        
