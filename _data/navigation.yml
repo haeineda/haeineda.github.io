@@ -55,7 +55,7 @@ docs-ko:
     children:
       - title:  소인수분해
         url:    2021/04/08/factorization-prime-factors.html
-      - title:  정수와 유리수
+      - title:  최대공약수와 최소공배수
         url:    2021/04/08/greatest-common-denominator.html
 
 # 과학
