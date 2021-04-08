@@ -4,7 +4,6 @@ sidebar:
   nav: docs1-ko
 aside:
   toc: true
-key: 20190711
 tags: 암석 풍화 순환
 ---
 
