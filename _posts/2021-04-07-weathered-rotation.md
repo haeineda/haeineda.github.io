@@ -1,7 +1,7 @@
 ---
 title: 암석의 풍화와 순환
 sidebar:
-  nav: docs-ko
+  nav: docs1-ko
 aside:
   toc: true
 key: 20190711
