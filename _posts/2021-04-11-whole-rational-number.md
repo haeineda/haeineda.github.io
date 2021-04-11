@@ -19,4 +19,4 @@
 
 ## 다이소
 
-![이미지](D:\haeineda.github.io\img\test.png)
+![이미지](https://haeineda.github.io/img/test.png)
