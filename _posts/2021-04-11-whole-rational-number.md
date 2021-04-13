@@ -25,9 +25,12 @@
 
 ## Alert
 
-Success Text.{:.success}
+Success Text.Success Text.Success Text.Success Text.Success Text.Success Text.
+{:.success}
 
-Info Text.{:.info}
+Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info
+Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info
+{:.info}
 
 Warning Text.
 {:.warning}
@@ -36,11 +39,19 @@ Error Text.
 {:.error}
 ## Tag
 
+`success`
+
 `success`{:.success}
+
+`info`
 
 `info`{:.info}
 
+`warning`
+
 `warning`{:.warning}
+
+`error`
 
 `error`{:.error}
 
