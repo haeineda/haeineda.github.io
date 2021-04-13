@@ -20,3 +20,42 @@
 ## 다이소
 
 ![이미지](https://haeineda.github.io/img/test.png)
+
+# Additional styles
+
+## Alert
+
+Success Text.{:.success}
+
+Info Text.{:.info}
+
+Warning Text.
+{:.warning}
+
+Error Text.
+{:.error}
+## Tag
+
+`success`{:.success}
+
+`info`{:.info}
+
+`warning`{:.warning}
+
+`error`{:.error}
+
+## Image
+
+![이미지](https://haeineda.github.io/img/test.png){:.border}
+
+![이미지](https://haeineda.github.io/img/test.png){:.shadow}
+
+![이미지](https://haeineda.github.io/img/test.png){:.rounded}
+
+![이미지](https://haeineda.github.io/img/test.png){:.circle}
+
+![이미지](https://haeineda.github.io/img/test.png){:.border.rounded}
+
+![이미지](https://haeineda.github.io/img/test.png){:.circle.shadow}
+
+![이미지](https://haeineda.github.io/img/test.png){:.circle.border.shadow}
