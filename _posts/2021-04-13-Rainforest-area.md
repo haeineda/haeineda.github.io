@@ -1,3 +1,12 @@
+---
+title: 열대 우림 지역 생활
+sidebar:
+  nav: docs-ko
+aside:
+  toc: true
+tags: 열대 우림 지역 생활
+---
+
 #열대 우림 지역 생활
 
 > 1. 열대 우림 지역은 어떤 곳일까?

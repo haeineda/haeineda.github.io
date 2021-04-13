@@ -1,3 +1,12 @@
+---
+title: 세계 기후 지역
+sidebar:
+  nav: docs-ko
+aside:
+  toc: true
+tags: 세계 기후 지역
+---
+
 #세계 기후 지역
 
 >  1. 세계는 기후에 따라 여러 지역으로 구분된다
