@@ -25,11 +25,11 @@
 
 ## Alert
 
-Success Text.Success Text.Success Text.Success Text.Success Text.Success Text.
+### 기본
+Success Text.
 {:.success}
 
-Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info
-Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info
+Info Text.
 {:.info}
 
 Warning Text.
@@ -37,23 +37,51 @@ Warning Text.
 
 Error Text.
 {:.error}
+### 확장
+Success Text.Success Text.Success Text.Success Text.Success Text.Success Text.
+{:.success}
+
+Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info
+Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info
+{:.info}
+
+Warning Text.   Warning Text.    Warning Text.
+Warning Text.Warning Text.Warning Text.Warning Text.Warning Text.Warning Text.
+{:.warning}
+
+Error Text.
+Error Text.
+Error Text.
+Error Text.
+{:.error}
 ## Tag
-
 `success`
-
-`success`{:.success}
 
 `info`
 
-`info`{:.info}
-
 `warning`
+
+`error`
+### 기본
+`success`{:.success}
+
+`info`{:.info}
 
 `warning`{:.warning}
 
-`error`
+`error`{:.error}
+### 확장
+`success success success success `{:.success}
+
+`
+infoinfoinfoinfoinfoinfoinfoinfoinfoinfoinfoinfo
+infoinfoinfoinfoinfoinfoinfoinfoinfoinfoinfoinfo
+`{:.info}
+
+`warning-warning-warning-warning-warning`{:.warning}
 
 `error`{:.error}
+
 
 ## Image
 
