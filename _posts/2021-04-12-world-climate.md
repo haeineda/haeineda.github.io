@@ -1,7 +1,7 @@
 ---
 title: 세계 기후 지역
 sidebar:
-  nav: docs-ko
+  nav: docs2-ko
 aside:
   toc: true
 tags: 세계 기후 지역

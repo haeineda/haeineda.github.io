@@ -69,4 +69,11 @@ docs1-ko:
       - title:  지각을 이루는 암석
         url:    2021/04/07/rock.html
 
-       
+# 사회
+docs2-ko:        
+  - title:      사회
+    children:
+      - title:  열대 우림 지역 생활
+        url:    2021/04/13/Rainforest-area.html
+      - title:  세계 기후 지역
+        url:    2021/04/12/world-climate.html
