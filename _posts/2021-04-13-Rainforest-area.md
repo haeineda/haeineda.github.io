@@ -42,7 +42,7 @@ tags: 열대 우림 지역 생활
 
 ![이미지](https://haeineda.github.io/img/food.png)
 
-![이미지](https://haeineda.github.io/img/house.png)
+![이미지](https://haeineda.github.io/img/fire.png)
 
 ## 열대 우림 지역의 농업
 
