@@ -1,3 +1,12 @@
+---
+title: 움직이는 대륙
+sidebar:
+  nav: docs1-ko
+aside:
+  toc: true
+tags: 대륙 해안선 산맥 화석
+---
+
 # 움직이는 대륙
 
 ### 과거의 대륙 분포는 현재와 같았을까?

@@ -1,4 +1,11 @@
-
+---
+title: 세계 기후 지역
+sidebar:
+  nav: docs2-ko
+aside:
+  toc: true
+tags: 기후 기온 강수량
+---
 
 # 세계 기후 지역
 
