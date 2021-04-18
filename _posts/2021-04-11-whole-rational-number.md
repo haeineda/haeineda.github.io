@@ -14,87 +14,25 @@
 
 ![정수와 유리수](https://lh3.googleusercontent.com/proxy/CX7wtJgcE8dBx2cNfaQjnM9qIBdgi4rw8BDYJoQGmVlanceJHxsrihFz-5i8IEX92mo2EyVV8fBu2GosPKwkWcMwZYOln_FSPCYyb75AgZaaCEgft7H-A_vaa2T2)
 
-# 다나와
-- 어디로 갈가죠...??
+수를 수직선 위에 나타낼때, 원점을 기준으로 오른쪽으로 갈수록 **절댓값이 큰수가 크고** 왼쪽으로 갈수록 **절댓값이 클수록** 작다.
 
-## 다이소
+**수의 대소 관계**
 
-![이미지](https://haeineda.github.io/img/test.png)
+① 양수는 0보다 크고 음수는 0보다 작다
+② 양수는 음수보다 크다
+③ 두 수가 모두 양수이면 절댓값이 큰 수가 크다
+④ 두 수가 모두 음수이면 절댓값이 큰 수가 작다
 
-# Additional styles
+## 보등호
 
-## Alert
-
-### 기본
-Success Text.
-{:.success}
-
-Info Text.
-{:.info}
-
-Warning Text.
-{:.warning}
-
-Error Text.
-{:.error}
-### 확장
-Success Text.Success Text.Success Text.Success Text.Success Text.Success Text.
-{:.success}
-
-Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info
-Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info Text.Info
-{:.info}
-
-Warning Text.   Warning Text.    Warning Text.
-Warning Text.Warning Text.Warning Text.Warning Text.Warning Text.Warning Text.
-{:.warning}
-
-Error Text.
-Error Text.
-Error Text.
-Error Text.
-{:.error}
-## Tag
-`success`
-
-`info`
-
-`warning`
-
-`error`
-### 기본
-`success`{:.success}
-
-`info`{:.info}
-
-`warning`{:.warning}
-
-`error`{:.error}
-### 확장
-`success success success success `{:.success}
-
-`
-infoinfoinfoinfoinfoinfoinfoinfoinfoinfoinfoinfo
-infoinfoinfoinfoinfoinfoinfoinfoinfoinfoinfoinfo
-`{:.info}
-
-`warning-warning-warning-warning-warning`{:.warning}
-
-`error`{:.error}
+‘a는 -2보다 크거나 같다’는 ‘a는 -2이상이다’ 와 같은 뜻으로 기호 ≥ 를 사용하여 나타낸다
 
 
-## Image
+‘a는 5보다 작거나 같다’는 ‘a는 5이하이다’ 와 같은 뜻으로 기호 ≤ 를 사용하여 나타낸다
 
-![이미지](https://haeineda.github.io/img/test.png){:.border}
+또한, ‘a가 -2보다 크거나 같고 1보다 작다’를 기호로
 
-![이미지](https://haeineda.github.io/img/test.png){:.shadow}
+1>a≥-2 
 
-![이미지](https://haeineda.github.io/img/test.png){:.rounded}
+와 같이 나타낸다
 
-![이미지](https://haeineda.github.io/img/test.png){:.circle}
-
-![이미지](https://haeineda.github.io/img/test.png){:.border.rounded}
-
-![이미지](https://haeineda.github.io/img/test.png){:.circle.shadow}
-
-![이미지](https://haeineda.github.io/img/test.png){:.circle.border.shadow}
