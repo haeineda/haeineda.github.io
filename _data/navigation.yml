@@ -57,6 +57,8 @@ docs-ko:
         url:    2021/04/08/factorization-prime-factors.html
       - title:  최대공약수와 최소공배수
         url:    2021/04/08/greatest-common-denominator.html
+      - title:  양수와 음수 / 정수와 유리수
+        url:    2021/04/09/positive-negative-number.html
 
 # 과학
 docs1-ko:        
@@ -67,4 +69,11 @@ docs1-ko:
       - title:  지각을 이루는 암석
         url:    2021/04/07/rock.html
 
-       
+# 사회
+docs2-ko:        
+  - title:      사회
+    children:
+      - title:  열대 우림 지역 생활
+        url:    2021/04/13/Rainforest-area.html
+      - title:  세계 기후 지역
+        url:    2021/04/12/world-climate.html
